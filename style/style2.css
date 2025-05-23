@@ -35,6 +35,18 @@ clear: both;
 border: 0 0 10px 10px;
 }
 
+@media(max-width: 1000px){
+  .grid-container{
+    display: grid;
+    gap: 5px;
+    grid-template:
+    "header   header"   auto
+    "main     main"     auto
+    "footer   footer"   auto  /
+    200px     auto
+  }
+}
+
 @media(max-width: 600px){
   .grid-container{
     display: grid;

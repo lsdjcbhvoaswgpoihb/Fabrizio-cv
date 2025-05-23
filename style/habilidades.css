@@ -1,3 +1,26 @@
+@media(max-width:1000px){
+main h2{
+  color: rgb(221, 240, 55);
+}
+
+.SubtituloCursosRealizados{
+  color: white;
+  font-size: 32px;
+}
+
+#primerCursoRealizado{
+font-size: 24px;
+}
+
+p{
+  font-size: 20px;
+  font-family:   Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  text-shadow: 1px 1px 2px black;
+}
+}
+
+
 @media(max-width:600px){
 main h2{
   color: rgb(221, 240, 55);

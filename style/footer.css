@@ -1,3 +1,18 @@
+@media(max-widht:1000px){
+ .footer small div{
+  withd:auto;
+  text-align: center;
+ }
+ .footer small a{
+  padding: 10px;
+  font-size: 16px;
+ }
+ .footer small p{
+  font-size: 16px;
+  margin: 10px;
+ }
+}
+
 @media(max-widht:600px){
  .footer small div{
   withd:auto;
@@ -12,5 +27,7 @@
   margin: 10px;
  }
 }
+
+
 
 

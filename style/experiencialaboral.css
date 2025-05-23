@@ -1,3 +1,22 @@
+@media(max-width:1000px){
+  .main dl dt (
+  font-size: 24px;
+  font-weight: bold;
+)
+
+.main dl dd{
+  font-size: 20px;
+  font-weight: lighter;
+  padding: 10px;
+}
+
+.main h2{
+  font-size: 32px;
+  font-weight: bold;
+  padding: 10px;
+}
+}
+
 @media(max-width:600px){
   .main dl dt (
   font-size: 18px;

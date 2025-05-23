@@ -1,3 +1,17 @@
+@media(max-width:1000px){
+  section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  section h2{
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0%;
+    color: #13747d;
+  }  
+}
+
 @media(max-width:600px){
   section{
     background-color: white;
@@ -11,3 +25,4 @@
     color: #13747d;
   }  
 }
+
